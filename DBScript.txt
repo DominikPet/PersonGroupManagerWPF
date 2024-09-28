@@ -1,0 +1,88 @@
+CREATE TABLE GroupTable
+(
+    IDGroup int primary key identity,
+    Name nvarchar(50) not null
+)
+GO
+
+CREATE TABLE GroupPerson
+(
+    IDGroupPerson int primary key identity,
+    GroupID int not null,
+    PersonID int not null,
+    foreign key (GroupID) references GroupTable(IDGroup),
+    foreign key (PersonID) references Person(IDPerson)
+)
+GO
+
+CREATE PROC AddGroup
+    @name nvarchar(50),
+    @idGroup INT OUTPUT
+AS
+BEGIN
+    INSERT INTO GroupTable (Name) VALUES (@name)
+    SET @idGroup = SCOPE_IDENTITY()
+END
+GO
+
+CREATE PROC UpdateGroup
+    @idGroup int,
+    @name nvarchar(50)
+AS
+BEGIN
+    UPDATE GroupTable SET Name = @name WHERE IDGroup = @idGroup
+END
+GO
+
+CREATE PROC DeleteGroup
+    @idGroup int
+AS
+BEGIN
+    DELETE FROM GroupTable WHERE IDGroup = @idGroup
+END
+GO
+
+CREATE PROC GetGroups
+AS
+BEGIN
+    SELECT * FROM GroupTable
+END
+GO
+
+CREATE PROC GetGroup
+    @idGroup int
+AS
+SELECT * FROM GroupTable WHERE IDGroup = @idGroup
+GO
+
+
+CREATE PROC AddPersonToGroup
+    @groupID int,
+    @personID int
+AS
+BEGIN
+    DELETE FROM GroupPerson WHERE PersonID = @personID
+
+    INSERT INTO GroupPerson (GroupID, PersonID) VALUES (@groupID, @personID)
+END
+GO
+
+CREATE PROC RemovePersonFromGroup
+    @personID int,
+    @groupID int
+AS
+BEGIN
+    DELETE FROM GroupPerson WHERE PersonID = @personID AND GroupID = @groupID
+END
+GO
+
+CREATE PROC GetPeopleFromGroup
+    @groupID int
+AS
+BEGIN
+    SELECT P.* 
+    FROM Person P
+    INNER JOIN GroupPerson GP ON P.IDPerson = GP.PersonID
+    WHERE GP.GroupID = @groupID
+END
+GO
