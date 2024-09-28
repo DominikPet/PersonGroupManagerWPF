@@ -1,0 +1,88 @@
+﻿<local:GroupPage x:Class="PersonManager.EditGroupPage"
+                 xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                 xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                 xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                 xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                 xmlns:local="clr-namespace:PersonManager"
+                 mc:Ignorable="d"
+                 d:DesignHeight="450"
+                 d:DesignWidth="600"
+                 Title="EditGroupPage">
+
+    <Grid Background="{StaticResource GradientBackground}">
+        <Label Foreground="White"
+               Content="Name of group"
+               HorizontalAlignment="Left"
+               Margin="235,34,0,0"
+               VerticalAlignment="Top"
+               x:Name="lbName"
+               Height="25"
+               Width="100" />
+        <TextBox x:Name="tbName"
+                 Text="{Binding Name}"
+                 HorizontalAlignment="Left"
+                 Margin="350,36,0,0"
+                 TextWrapping="Wrap"
+                 VerticalAlignment="Top"
+                 Width="206"
+                 Height="25" />
+
+        <Button Content="Commit"
+                Background="Black"
+                Foreground="White"
+                x:Name="btnCommit"
+                Click="btnCommit_Click"
+                HorizontalAlignment="Left"
+                Margin="48,413,0,0"
+                VerticalAlignment="Top"
+                Height="30"
+                Width="80" />
+
+        <Button Content="Remove"
+                Background="Red"
+                Foreground="White"
+                x:Name="btnRemove"
+                Click="btnRemove_Click"
+                HorizontalAlignment="Left"
+                Margin="453,413,0,0"
+                VerticalAlignment="Top"
+                Height="30"
+                Width="103" />
+
+        <Button Background="Transparent"
+                BorderBrush="Transparent"
+                x:Name="btnBack"
+                Click="btnBack_Click"
+                HorizontalAlignment="Left"
+                Margin="20,29,0,0"
+                VerticalAlignment="Top"
+                Height="35"
+                Width="55">
+            <Image Source="/Assets/back.png" />
+        </Button>
+        <ListView x:Name="lvAllPeople"
+                  Width="150"
+                  Height="300"
+                  Margin="88,75,362,75"
+                  MouseDoubleClick="lvAllPeople_MouseDoubleClick">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="150"
+                                    Header="All people" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ListView x:Name="lvPeopleInGroup"
+                  Width="150"
+                  Height="300"
+                  Margin="350,75,100,75"
+                  MouseDoubleClick="lvPeopleInGroup_MouseDoubleClick">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="150"
+                                    Header="People in group" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</local:GroupPage>

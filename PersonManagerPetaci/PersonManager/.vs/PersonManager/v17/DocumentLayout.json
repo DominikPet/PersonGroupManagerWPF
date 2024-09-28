@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Programer\\Desktop\\PetaciPPPK\\Zadatak 2\\PersonManagerPetaci\\PersonManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAD8485-871C-4212-B89A-114E19E47DEE}|PersonManager\\PersonManager.csproj|c:\\users\\programer\\desktop\\petacipppk\\zadatak 2\\personmanagerpetaci\\personmanager\\personmanager\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0EAD8485-871C-4212-B89A-114E19E47DEE}|PersonManager\\PersonManager.csproj|solutionrelative:personmanager\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAD8485-871C-4212-B89A-114E19E47DEE}|PersonManager\\PersonManager.csproj|c:\\users\\programer\\desktop\\petacipppk\\zadatak 2\\personmanagerpetaci\\personmanager\\personmanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EAD8485-871C-4212-B89A-114E19E47DEE}|PersonManager\\PersonManager.csproj|solutionrelative:personmanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAD8485-871C-4212-B89A-114E19E47DEE}|PersonManager\\PersonManager.csproj|c:\\users\\programer\\desktop\\petacipppk\\zadatak 2\\personmanagerpetaci\\personmanager\\personmanager\\listpeoplepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EAD8485-871C-4212-B89A-114E19E47DEE}|PersonManager\\PersonManager.csproj|solutionrelative:personmanager\\listpeoplepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAD8485-871C-4212-B89A-114E19E47DEE}|PersonManager\\PersonManager.csproj|c:\\users\\programer\\desktop\\petacipppk\\zadatak 2\\personmanagerpetaci\\personmanager\\personmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EAD8485-871C-4212-B89A-114E19E47DEE}|PersonManager\\PersonManager.csproj|solutionrelative:personmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAD8485-871C-4212-B89A-114E19E47DEE}|PersonManager\\PersonManager.csproj|c:\\users\\programer\\desktop\\petacipppk\\zadatak 2\\personmanagerpetaci\\personmanager\\personmanager\\editpersonpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EAD8485-871C-4212-B89A-114E19E47DEE}|PersonManager\\PersonManager.csproj|solutionrelative:personmanager\\editpersonpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAD8485-871C-4212-B89A-114E19E47DEE}|PersonManager\\PersonManager.csproj|c:\\users\\programer\\desktop\\petacipppk\\zadatak 2\\personmanagerpetaci\\personmanager\\personmanager\\editgrouppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EAD8485-871C-4212-B89A-114E19E47DEE}|PersonManager\\PersonManager.csproj|solutionrelative:personmanager\\editgrouppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Programer\\AppData\\Local\\Temp\\.vsdbgsrc\\83616927926d14a9d63ba91b611a12293ac61079cc74be5d9c8aaec5dc9ed161\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAD8485-871C-4212-B89A-114E19E47DEE}|PersonManager\\PersonManager.csproj|c:\\users\\programer\\desktop\\petacipppk\\zadatak 2\\personmanagerpetaci\\personmanager\\personmanager\\editgrouppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EAD8485-871C-4212-B89A-114E19E47DEE}|PersonManager\\PersonManager.csproj|solutionrelative:personmanager\\editgrouppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAD8485-871C-4212-B89A-114E19E47DEE}|PersonManager\\PersonManager.csproj|c:\\users\\programer\\desktop\\petacipppk\\zadatak 2\\personmanagerpetaci\\personmanager\\personmanager\\listgrouppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EAD8485-871C-4212-B89A-114E19E47DEE}|PersonManager\\PersonManager.csproj|solutionrelative:personmanager\\listgrouppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAD8485-871C-4212-B89A-114E19E47DEE}|PersonManager\\PersonManager.csproj|c:\\users\\programer\\desktop\\petacipppk\\zadatak 2\\personmanagerpetaci\\personmanager\\personmanager\\listgrouppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EAD8485-871C-4212-B89A-114E19E47DEE}|PersonManager\\PersonManager.csproj|solutionrelative:personmanager\\listgrouppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Programer\\Desktop\\PetaciPPPK\\Zadatak 2\\PersonManagerPetaci\\PersonManager\\PersonManager\\App.config",
+              "RelativeDocumentMoniker": "PersonManager\\App.config",
+              "ToolTip": "C:\\Users\\Programer\\Desktop\\PetaciPPPK\\Zadatak 2\\PersonManagerPetaci\\PersonManager\\PersonManager\\App.config",
+              "RelativeToolTip": "PersonManager\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-28T21:29:35.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Programer\\Desktop\\PetaciPPPK\\Zadatak 2\\PersonManagerPetaci\\PersonManager\\PersonManager\\App.xaml",
+              "RelativeDocumentMoniker": "PersonManager\\App.xaml",
+              "ToolTip": "C:\\Users\\Programer\\Desktop\\PetaciPPPK\\Zadatak 2\\PersonManagerPetaci\\PersonManager\\PersonManager\\App.xaml",
+              "RelativeToolTip": "PersonManager\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-28T21:29:33.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditPersonPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Programer\\Desktop\\PetaciPPPK\\Zadatak 2\\PersonManagerPetaci\\PersonManager\\PersonManager\\EditPersonPage.xaml",
+              "RelativeDocumentMoniker": "PersonManager\\EditPersonPage.xaml",
+              "ToolTip": "C:\\Users\\Programer\\Desktop\\PetaciPPPK\\Zadatak 2\\PersonManagerPetaci\\PersonManager\\PersonManager\\EditPersonPage.xaml",
+              "RelativeToolTip": "PersonManager\\EditPersonPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-28T21:26:03.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\Programer\\AppData\\Local\\Temp\\.vsdbgsrc\\83616927926d14a9d63ba91b611a12293ac61079cc74be5d9c8aaec5dc9ed161\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\83616927926d14a9d63ba91b611a12293ac61079cc74be5d9c8aaec5dc9ed161\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\Programer\\AppData\\Local\\Temp\\.vsdbgsrc\\83616927926d14a9d63ba91b611a12293ac61079cc74be5d9c8aaec5dc9ed161\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\83616927926d14a9d63ba91b611a12293ac61079cc74be5d9c8aaec5dc9ed161\\XamlReader.cs [Read Only]",
+              "ViewState": "AQIAAH8BAAAAAAAAAAAIwJABAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:22:06.974Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditGroupPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Programer\\Desktop\\PetaciPPPK\\Zadatak 2\\PersonManagerPetaci\\PersonManager\\PersonManager\\EditGroupPage.xaml.cs",
+              "RelativeDocumentMoniker": "PersonManager\\EditGroupPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Programer\\Desktop\\PetaciPPPK\\Zadatak 2\\PersonManagerPetaci\\PersonManager\\PersonManager\\EditGroupPage.xaml.cs",
+              "RelativeToolTip": "PersonManager\\EditGroupPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T07:28:36.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListGroupPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Programer\\Desktop\\PetaciPPPK\\Zadatak 2\\PersonManagerPetaci\\PersonManager\\PersonManager\\ListGroupPage.xaml.cs",
+              "RelativeDocumentMoniker": "PersonManager\\ListGroupPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Programer\\Desktop\\PetaciPPPK\\Zadatak 2\\PersonManagerPetaci\\PersonManager\\PersonManager\\ListGroupPage.xaml.cs",
+              "RelativeToolTip": "PersonManager\\ListGroupPage.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAcwE4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T09:02:45.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditGroupPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Programer\\Desktop\\PetaciPPPK\\Zadatak 2\\PersonManagerPetaci\\PersonManager\\PersonManager\\EditGroupPage.xaml",
+              "RelativeDocumentMoniker": "PersonManager\\EditGroupPage.xaml",
+              "ToolTip": "C:\\Users\\Programer\\Desktop\\PetaciPPPK\\Zadatak 2\\PersonManagerPetaci\\PersonManager\\PersonManager\\EditGroupPage.xaml",
+              "RelativeToolTip": "PersonManager\\EditGroupPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-17T08:28:01.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListGroupPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Programer\\Desktop\\PetaciPPPK\\Zadatak 2\\PersonManagerPetaci\\PersonManager\\PersonManager\\ListGroupPage.xaml",
+              "RelativeDocumentMoniker": "PersonManager\\ListGroupPage.xaml",
+              "ToolTip": "C:\\Users\\Programer\\Desktop\\PetaciPPPK\\Zadatak 2\\PersonManagerPetaci\\PersonManager\\PersonManager\\ListGroupPage.xaml",
+              "RelativeToolTip": "PersonManager\\ListGroupPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-17T08:49:09.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListPeoplePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Programer\\Desktop\\PetaciPPPK\\Zadatak 2\\PersonManagerPetaci\\PersonManager\\PersonManager\\ListPeoplePage.xaml",
+              "RelativeDocumentMoniker": "PersonManager\\ListPeoplePage.xaml",
+              "ToolTip": "C:\\Users\\Programer\\Desktop\\PetaciPPPK\\Zadatak 2\\PersonManagerPetaci\\PersonManager\\PersonManager\\ListPeoplePage.xaml",
+              "RelativeToolTip": "PersonManager\\ListPeoplePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-17T08:49:01.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Programer\\Desktop\\PetaciPPPK\\Zadatak 2\\PersonManagerPetaci\\PersonManager\\PersonManager\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PersonManager\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Programer\\Desktop\\PetaciPPPK\\Zadatak 2\\PersonManagerPetaci\\PersonManager\\PersonManager\\MainWindow.xaml",
+              "RelativeToolTip": "PersonManager\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-17T08:52:09.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 53,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 53,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

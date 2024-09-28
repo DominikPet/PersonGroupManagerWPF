@@ -1,0 +1,75 @@
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\bin\Debug\net6.0-windows\PersonManager.exe
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\bin\Debug\net6.0-windows\PersonManager.dll.config
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\bin\Debug\net6.0-windows\PersonManager.deps.json
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\bin\Debug\net6.0-windows\PersonManager.runtimeconfig.json
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\bin\Debug\net6.0-windows\PersonManager.dll
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\bin\Debug\net6.0-windows\PersonManager.pdb
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager.csproj.AssemblyReference.cache
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\EditPersonPage.g.cs
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\ListPeoplePage.g.cs
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager_MarkupCompile.cache
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager_MarkupCompile.lref
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\App.baml
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\EditPersonPage.baml
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\ListPeoplePage.baml
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager.g.resources
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager.AssemblyInfoInputs.cache
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager.AssemblyInfo.cs
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager.csproj.CoreCompileInputs.cache
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager.csproj.CopyComplete
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager.dll
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\refint\PersonManager.dll
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager.pdb
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager.genruntimeconfig.cache
+C:\Users\Programer\Downloads\PersonManager_DrugiDio\PersonManager\PersonManager\obj\Debug\net6.0-windows\ref\PersonManager.dll
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\bin\Debug\net6.0-windows\PersonManager.exe
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\bin\Debug\net6.0-windows\PersonManager.dll.config
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\bin\Debug\net6.0-windows\PersonManager.deps.json
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\bin\Debug\net6.0-windows\PersonManager.runtimeconfig.json
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\bin\Debug\net6.0-windows\PersonManager.dll
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\bin\Debug\net6.0-windows\PersonManager.pdb
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager.csproj.AssemblyReference.cache
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\EditGroupPage.g.cs
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\EditPersonPage.g.cs
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\ListGroupPage.g.cs
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\ListPeoplePage.g.cs
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager_MarkupCompile.cache
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager_MarkupCompile.lref
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\App.baml
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\EditGroupPage.baml
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\EditPersonPage.baml
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\ListGroupPage.baml
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\ListPeoplePage.baml
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager.g.resources
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager.AssemblyInfoInputs.cache
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager.AssemblyInfo.cs
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager.csproj.CoreCompileInputs.cache
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager.sourcelink.json
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonMa.170D3407.Up2Date
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager.dll
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\refint\PersonManager.dll
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager.pdb
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\PersonManager.genruntimeconfig.cache
+C:\Users\Programer\Desktop\PetaciPPPK\Zadatak 2\PersonManagerPetaci\PersonManager\PersonManager\obj\Debug\net6.0-windows\ref\PersonManager.dll
